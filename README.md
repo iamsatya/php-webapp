@@ -1,5 +1,5 @@
 # ED01-CMS
-## CMS project from Udemy course
+## CMS project for DevOPS Students
 
 ![home page](../assets/a.png?raw=true)
 ![admin home page](../assets/b.png?raw=true)
